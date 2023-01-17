@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Header 2
 
-You can use the [editor on GitHub](https://github.com/interaubis/interaubis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Mushroom/Mycelium Kit Cogumelo](https://raw.githubusercontent.com/interaubis/modorituk/main/AQUI_______IMG_20221207_160200702.jpg).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -23,9 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 [ModoriTUK](https://github.com/interaubis/modorituk) 
-[Mushroom/Mycelium Kit Cogumelo](https://github.com/interaubis/modorituk/blob/main/AQUI_______IMG_20221207_160200702.jpg).
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
 ### Jekyll Themes
