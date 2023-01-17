@@ -22,9 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-ModoriTUK [ModoriTUK](https://github.com/interaubis/modorituk). 
-Mushroom Mycelium Kit Cogumelo [Mushroom/Mycelium Kit Cogumelo](https://github.com/interaubis/modorituk/blob/main/AQUI_______IMG_20221207_160200702.jpg).
+[ModoriTUK](https://github.com/interaubis/modorituk) 
+[Mushroom/Mycelium Kit Cogumelo](https://github.com/interaubis/modorituk/blob/main/AQUI_______IMG_20221207_160200702.jpg).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
