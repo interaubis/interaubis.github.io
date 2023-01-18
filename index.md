@@ -1,5 +1,5 @@
 ## ModTuk Kit Cogumushroom 
-![Mushroom/Mycelium Kit Cogumelo](https://raw.githubusercontent.com/interaubis/modorituk/main/ModTUK_KitCoguMushroom-01.jpg)(https://raw.githubusercontent.com/interaubis/modorituk/main/ModTUK_KitCoguMushroom-02.jpg).(https://raw.githubusercontent.com/interaubis/modorituk/main/ModTUK_KitCoguMushroom-03.jpg)
+![Mushroom/Mycelium Kit Cogumelo](https://raw.githubusercontent.com/interaubis/modorituk/main/ModTUK_KitCoguMushroom-01.jpg)![Mushroom/Mycelium Kit Cogumelo3](https://raw.githubusercontent.com/interaubis/modorituk/main/ModTUK_KitCoguMushroom-02.jpg)![Mushroom/Mycelium Kit Cogumelo](https://raw.githubusercontent.com/interaubis/modorituk/main/ModTUK_KitCoguMushroom-03.jpg)
 
 
 ### Markdown
